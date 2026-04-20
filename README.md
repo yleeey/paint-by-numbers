@@ -1,6 +1,6 @@
 # Paint by Number
 
-Turn any image into an interactive paint-by-number canvas, right in your browser.
+Turn ANY image into an interactive paint-by-number canvas, right in your browser.
 
 Upload a photo → the app reduces it to a small color palette, splits it into numbered regions, and lets you click each region to fill it with the matching color. 100% client-side — no backend, no uploads, no API keys.
 
